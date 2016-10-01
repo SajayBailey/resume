@@ -1,0 +1,82 @@
+img {
+	position: relative;
+	width: 250px;
+	height: 300px;
+	
+	top: -180px;
+	right: 150px;
+	float: right;
+	border-radius: 50%;
+	transform: rotate(355deg);
+}
+div {
+	width: 50%;
+	/*position: relative;*/
+	display:block;
+}
+
+#myName{
+	font-size: 60px;
+	font-family:Georgia, serif;
+}
+
+#goal{
+	text-align:left;
+	font-size: 18	px;
+	font-family: Arial, sans-serif;
+}
+
+.right{
+		float: right;
+		text-align:left;
+		border-left: 2px solid #59FF2D;
+		margin: 4px;
+		padding: 15px;
+	}
+.left {
+	
+	text-align:center;
+	
+}
+#test {
+	height: 30px;
+	
+	
+}
+#info{
+	font-family: Impact, sans-serif;
+	text-align:left;
+	border-bottom: 3px solid #59FF2D;
+	width: 80%;
+	padding-bottom:20px;
+}
+
+#chng{
+	font-family: Cursive, sans-serif;
+	font-size:1.3em;
+	
+}
+
+
+#span0{
+	text-decoration: underline;
+	color:blue;
+	font-family:Arial, sans-serif;
+}
+
+#span1 {
+		font-weight: bold;
+		font-size: 20px;
+		
+	
+}
+
+body{
+	background-color: #FFC968;
+	color: #2865FF;
+}
+#test1{
+	
+	display:inline-block;
+	
+}
